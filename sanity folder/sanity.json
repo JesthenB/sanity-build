@@ -1,0 +1,10 @@
+{
+    "root": true,
+    "project": {
+      "name": "sanityyoutube"
+    },
+    "api": {
+      "projectId": "94gbm5dh",
+      "dataset": "production"
+    }
+  }
